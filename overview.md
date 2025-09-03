@@ -1,4 +1,4 @@
-development stack - C# with Unity
+development stack - Python with Ursina
 **prototype only - to test mechanics**
 third person
 weapons - melee and guns eventually
